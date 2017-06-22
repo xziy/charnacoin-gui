@@ -31,7 +31,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="103"/>
         <source>Payment ID &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</source>
-        <translation type="unfinished">ID платежа &lt;font size=&apos;2&apos;&gt;(Дополнительно)&lt;/font&gt;</translation>
+        <translation type="unfinished">ID платежа &lt;font size=&apos;2&apos;&gt;(дополнительно)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="105"/>
@@ -46,7 +46,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="126"/>
         <source>Description &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</source>
-        <translation type="unfinished">Сообщение &lt;font size=&apos;2&apos;&gt;(Дополнительно)&lt;/font&gt;</translation>
+        <translation type="unfinished">Сообщение &lt;font size=&apos;2&apos;&gt;(дополнительно)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="128"/>
