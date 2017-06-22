@@ -11,7 +11,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="61"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Адресс</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="63"/>
@@ -21,17 +21,17 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="72"/>
         <source>QRCODE</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QR-код</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="94"/>
         <source>4...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">4...</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="103"/>
         <source>Payment ID &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID платежа</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="105"/>
@@ -41,12 +41,12 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="117"/>
         <source>Paste 64 hexadecimal characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">64 символа</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="126"/>
         <source>Description &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сообщение &lt;font size=&apos;2&apos;&gt;(Дополнительно)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="128"/>
@@ -56,22 +56,22 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="139"/>
         <source>Give this entry a name or description</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Введите имя или описание</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="155"/>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Добавить</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="160"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="163"/>
         <source>Invalid address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неверное значение адреса</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="167"/>
@@ -84,12 +84,12 @@
     <message>
         <location filename="../components/AddressBookTable.qml" line="47"/>
         <source>No more results</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нет сохраненных адресов</translation>
     </message>
     <message>
         <location filename="../components/AddressBookTable.qml" line="104"/>
         <source>Payment ID:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID платежа:</translation>
     </message>
 </context>
 <context>
@@ -97,7 +97,7 @@
     <message>
         <location filename="../BasicPanel.qml" line="97"/>
         <source>Locked Balance:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Баланс:</translation>
     </message>
     <message>
         <location filename="../BasicPanel.qml" line="110"/>
@@ -107,7 +107,7 @@
     <message>
         <location filename="../BasicPanel.qml" line="134"/>
         <source>Available Balance:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Доступные средства:</translation>
     </message>
     <message>
         <location filename="../BasicPanel.qml" line="147"/>
@@ -120,12 +120,12 @@
     <message>
         <location filename="../components/DaemonConsole.qml" line="108"/>
         <source>Close</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Закрыть</translation>
     </message>
     <message>
         <location filename="../components/DaemonConsole.qml" line="119"/>
         <source>command + enter (e.g help)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Введите команду и нажмите Enter (например: help)</translation>
     </message>
 </context>
 <context>
@@ -133,16 +133,16 @@
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="84"/>
         <source>Starting Charnacoin daemon in %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> Запуск службы Charnacoin через %1 секунд</translation>
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="106"/>
         <source>Start daemon (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запуск службы (%1)</translation>
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="123"/>
-        <source>Use custom settings</source>
+        <source>Настроить параметры</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -151,12 +151,12 @@
     <message>
         <location filename="../pages/Dashboard.qml" line="57"/>
         <source>Quick transfer</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Быстрая отправка</translation>
     </message>
     <message>
         <location filename="../pages/Dashboard.qml" line="89"/>
         <source>SEND</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ОТПРАВИТЬ</translation>
     </message>
     <message>
         <location filename="../pages/Dashboard.qml" line="102"/>
