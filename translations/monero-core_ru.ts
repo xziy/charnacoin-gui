@@ -31,7 +31,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="103"/>
         <source>Payment ID &lt;font size=&apos;2&apos;&gt;(Optional)&lt;/font&gt;</source>
-        <translation type="unfinished">ID платежа</translation>
+        <translation type="unfinished">ID платежа &lt;font size=&apos;2&apos;&gt;(Дополнительно)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="105"/>
@@ -41,7 +41,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="117"/>
         <source>Paste 64 hexadecimal characters</source>
-        <translation type="unfinished">64 символа</translation>
+        <translation type="unfinished">Шеснадцатиричный ключ (64 символа)</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="126"/>
@@ -102,7 +102,7 @@
     <message>
         <location filename="../BasicPanel.qml" line="110"/>
         <source>78.9239845</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">78.9239845</translation>
     </message>
     <message>
         <location filename="../BasicPanel.qml" line="134"/>
@@ -112,7 +112,7 @@
     <message>
         <location filename="../BasicPanel.qml" line="147"/>
         <source>2324.9239845</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">2324.9239845</translation>
     </message>
 </context>
 <context>
@@ -142,8 +142,8 @@
     </message>
     <message>
         <location filename="../components/DaemonManagerDialog.qml" line="123"/>
-        <source>Настроить параметры</source>
-        <translation type="unfinished"></translation>
+        <source>Use custom settings</source>
+        <translation type="unfinished">Использовать произвольные параметры</translation>
     </message>
 </context>
 <context>
@@ -174,7 +174,7 @@
     <message>
         <location filename="../components/DashboardTable.qml" line="137"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Дата</translation>
     </message>
     <message>
         <location filename="../components/DashboardTable.qml" line="170"/>
@@ -184,7 +184,7 @@
     <message>
         <location filename="../components/DashboardTable.qml" line="190"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Количество</translation>
     </message>
 </context>
 <context>
@@ -201,53 +201,53 @@
     <message>
         <location filename="../pages/History.qml" line="134"/>
         <source>Filter transaction history</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Фильтр истории транзакций</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="70"/>
         <source> selected: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">выбрано:</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="145"/>
         <source>&lt;b&gt;Total amount of selected payments&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;b&gt;Общая сумма по выбранным платежам&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="182"/>
         <source>Type for incremental search...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Type for incremental search...</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="222"/>
         <source>Date from</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">От:</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="247"/>
         <location filename="../pages/History.qml" line="396"/>
         <source>To</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">До:</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="273"/>
         <source>Filter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Фильтр</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="310"/>
         <source>Advanced filtering</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Дополнительно</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="329"/>
         <source>Type of transaction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тип транзакции</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="364"/>
         <source>Amount from</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Начальная сумма</translation>
     </message>
 </context>
 <context>
@@ -255,68 +255,68 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="78"/>
         <source>No more results</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нет значений</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="49"/>
         <location filename="../components/HistoryTable.qml" line="203"/>
         <source>Payment ID:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID платежа:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="48"/>
         <source>Tx ID:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tx ID:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="50"/>
         <source>Tx key:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tx key:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="51"/>
         <source>Tx note:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Tx note:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="52"/>
         <source>Destinations:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Назначение:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="110"/>
         <source>Details</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Детали</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="251"/>
         <source>BlockHeight:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Высота блока:</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="266"/>
         <source>(%1/10 confirmations)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(%1/10 подтверждений)</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="270"/>
         <source>UNCONFIRMED</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">НЕПОДТВЕРЖДЕНО</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="271"/>
         <source>PENDING</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">В ОЖИДАНИИ</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="300"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Дата</translation>
     </message>
     <message>
         <location filename="../components/HistoryTable.qml" line="392"/>
         <source>Fee</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сбор</translation>
     </message>
     <message>
         <source>Balance</source>
@@ -325,7 +325,7 @@
     <message>
         <location filename="../components/HistoryTable.qml" line="357"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Количество</translation>
     </message>
 </context>
 <context>
@@ -343,7 +343,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="172"/>
         <source>Unlocked balance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Доступные средства</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="175"/>
@@ -353,27 +353,27 @@
     <message>
         <location filename="../LeftPanel.qml" line="264"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отправить</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="314"/>
         <source>Receive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Получить</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="315"/>
         <source>R</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">R</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="408"/>
         <source>K</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">K</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="338"/>
         <source>History</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">История</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="92"/>
@@ -383,67 +383,67 @@
     <message>
         <location filename="../LeftPanel.qml" line="289"/>
         <source>Address book</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сохраненные адреса</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="290"/>
         <source>B</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">B</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="339"/>
         <source>H</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">H</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="361"/>
         <source>Advanced</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Дополнительно</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="362"/>
         <source>D</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">D</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="383"/>
         <source>Mining</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Майнинг</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="384"/>
         <source>M</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">M</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="407"/>
         <source>Check payment</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Проверка платежа</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="431"/>
         <source>Sign/verify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Подпись/Верификация</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="432"/>
         <source>I</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">I</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="454"/>
         <source>Settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройки</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="455"/>
         <source>E</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">E</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="265"/>
         <source>S</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">S</translation>
     </message>
 </context>
 <context>
@@ -456,7 +456,7 @@
     <message>
         <location filename="../MiddlePanel.qml" line="47"/>
         <source>Unlocked Balance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Достпуные стредства</translation>
     </message>
 </context>
 <context>
@@ -464,62 +464,62 @@
     <message>
         <location filename="../pages/Mining.qml" line="73"/>
         <source>Solo mining</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Соло майнинг</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="80"/>
         <source>(only available for local daemons)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(доступно только для локального сервиса)</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="86"/>
         <source>Mining with your computer helps strengthen the Charnacoin network. The more that people mine, the harder it is for the network to be attacked, and every little bit helps.&lt;br&gt; &lt;br&gt;Mining also gives you a small chance to earn some Charnacoin. Your computer will create hashes looking for block solutions. If you find a block, you will get the associated reward. Good luck!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Майнинг помогает укрепить сеть Charnacoin. Чем больше майнеров, тем сложнее атаковать сеть, и каждый бит помогает. & Lt; br & gt; Майнинг также дает вам небольшой шанс заработать немного Charnacoin. Ваш компьютер создаст хеши, ищущие блок-решения. Если вы найдете блок, вы получите соответствующее вознаграждение. Удачи!</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="96"/>
         <source>CPU threads</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">CPU потоки</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="104"/>
         <source>(optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(дополнительно)</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="118"/>
         <source>Background mining (experimental)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Фоновый майнинг (experimental)</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="134"/>
         <source>Enable mining when running on battery</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Включить майнинг при работе от батареи</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="144"/>
         <source>Manage miner</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Управление майнером</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="153"/>
         <source>Start mining</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Начать майнинг</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="163"/>
         <source>Error starting mining</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка запуска</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="164"/>
         <source>Couldn&apos;t start mining.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Невозможно начать майнинг.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="166"/>
         <source>Mining is only available on local daemons. Run a local daemon to be able to mine.&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+ !!!       <translation type="unfinished">Mining is only available on local daemons. Run a local daemon to be able to mine.&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="178"/>
