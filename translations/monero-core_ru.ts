@@ -11,7 +11,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="61"/>
         <source>Address</source>
-        <translation type="unfinished">Адресс</translation>
+        <translation type="unfinished">Адрес</translation>
     </message>
     <message>
         <location filename="../pages/AddressBook.qml" line="63"/>
