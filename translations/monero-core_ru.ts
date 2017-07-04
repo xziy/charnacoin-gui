@@ -76,7 +76,7 @@
     <message>
         <location filename="../pages/AddressBook.qml" line="167"/>
         <source>Can&apos;t create entry</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Невозможно создать запись</translation>
     </message>
 </context>
 <context>
@@ -161,7 +161,7 @@
     <message>
         <location filename="../pages/Dashboard.qml" line="102"/>
         <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FCB819; font-size: 14px;}&lt;/style&gt;                        looking for security level and address book? go to &lt;a href=&apos;#&apos;&gt;Transfer&lt;/a&gt; tab</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished" status="!!!"></translation>
     </message>
 </context>
 <context>
@@ -169,7 +169,7 @@
     <message>
         <location filename="../components/DashboardTable.qml" line="47"/>
         <source>No more results</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нет результатов</translation>
     </message>
     <message>
         <location filename="../components/DashboardTable.qml" line="137"/>
@@ -196,7 +196,7 @@
         <location filename="../pages/History.qml" line="366"/>
         <location filename="../pages/History.qml" line="398"/>
         <source>&lt;b&gt;Tip tekst test&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished" status="!!!"></translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="134"/>
@@ -206,7 +206,7 @@
     <message>
         <location filename="../pages/History.qml" line="70"/>
         <source> selected: </source>
-        <translation type="unfinished">выбрано:</translation>
+        <translation type="unfinished"> выбрано: </translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="145"/>
@@ -216,7 +216,7 @@
     <message>
         <location filename="../pages/History.qml" line="182"/>
         <source>Type for incremental search...</source>
-        <translation type="unfinished">Type for incremental search...</translation>
+        <translation type="unfinished">Тип для инкрементного поиска ...</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="222"/>
@@ -338,7 +338,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="131"/>
         <source>Test tip 1&lt;br/&gt;&lt;br/&gt;line 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished" status="!!!"></translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="172"/>
@@ -348,7 +348,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="175"/>
         <source>Test tip 2&lt;br/&gt;&lt;br/&gt;line 2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished" status="!!!"></translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="264"/>
@@ -519,32 +519,32 @@
     <message>
         <location filename="../pages/Mining.qml" line="166"/>
         <source>Mining is only available on local daemons. Run a local daemon to be able to mine.&lt;br&gt;</source>
- !!!       <translation type="unfinished">Mining is only available on local daemons. Run a local daemon to be able to mine.&lt;br&gt;</translation>
+      <translation type="unfinished">Майнинг доступен при зупущеном сервисе CharnaCoin. Запустите сервис чтобы иметь возможность добывать CharnaCoin &lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="178"/>
         <source>Stop mining</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Остановить майнинг</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="194"/>
         <source>Status: not mining</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Статус: майнинг остановлен</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="205"/>
         <source>Mining at %1 H/s</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Скорость майнинга: %1 H/s</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="208"/>
         <source>Not mining</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не майнит</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="210"/>
         <source>Status: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Статус: </translation>
     </message>
 </context>
 <context>
@@ -552,32 +552,32 @@
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="85"/>
         <source>Network status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Статус сети</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="54"/>
         <source>Connected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Подключено</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="53"/>
         <source>Synchronizing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Синхронизация</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="57"/>
         <source>Wrong version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неверная версия</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="59"/>
         <source>Disconnected</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отключено</translation>
     </message>
     <message>
         <location filename="../components/NetworkStatusItem.qml" line="60"/>
         <source>Invalid connection status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Недопустимый статус подключения</translation>
     </message>
 </context>
 <context>
@@ -585,22 +585,22 @@
     <message>
         <location filename="../components/PasswordDialog.qml" line="70"/>
         <source>Please enter wallet password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Введите пароль кошелька</translation>
     </message>
     <message>
         <location filename="../components/PasswordDialog.qml" line="70"/>
         <source>Please enter wallet password for:&lt;br&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Введите пароль для кошелька:&lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../components/PasswordDialog.qml" line="147"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выход</translation>
     </message>
     <message>
         <location filename="../components/PasswordDialog.qml" line="162"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Да</translation>
     </message>
 </context>
 <context>
@@ -608,17 +608,17 @@
     <message>
         <location filename="../components/PrivacyLevelSmall.qml" line="100"/>
         <source>Low</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Низкий</translation>
     </message>
     <message>
         <location filename="../components/PrivacyLevelSmall.qml" line="109"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Средний</translation>
     </message>
     <message>
         <location filename="../components/PrivacyLevelSmall.qml" line="118"/>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Высокий</translation>
     </message>
 </context>
 <context>
@@ -626,17 +626,17 @@
     <message>
         <location filename="../components/ProgressBar.qml" line="43"/>
         <source>Establishing connection...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Установка соединения...</translation>
     </message>
     <message>
         <location filename="../components/ProgressBar.qml" line="57"/>
         <source>Blocks remaining: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Оставшиеся блоки:  %1</translation>
     </message>
     <message>
         <location filename="../components/ProgressBar.qml" line="100"/>
         <source>Synchronizing blocks</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Синхронизация блоков</translation>
     </message>
 </context>
 <context>
@@ -644,132 +644,135 @@
     <message>
         <location filename="../pages/Receive.qml" line="64"/>
         <source>Invalid payment ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неверный ID платежа</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="107"/>
         <source>WARNING: no connection to daemon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> Внимание! нет соединения с сервисом</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="129"/>
         <source>in the txpool: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">B txpool: %1</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="136"/>
         <source>%2 confirmations: %3 (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%2 подтверждения: %3 (%1)</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="138"/>
         <source>1 confirmation: %2 (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">1 поддтверждение: %2 (%1)</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="146"/>
         <source>No transaction found yet...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пока не найдено ни одной транзакции ...</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="150"/>
         <source>Transaction found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Транзакция найдена</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="150"/>
         <source>%1 transactions found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">%1 транзакций найдено</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="156"/>
         <source> with more money (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">with more money (%1)</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="158"/>
         <source> with not enough money (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">with not enough money (%1)</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="190"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Адрес</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="197"/>
         <source>ReadOnly wallet address displayed here</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Здесь отображается адрес кошелька ReadOnly</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="227"/>
         <source>16 hexadecimal characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">16 шестнадцатеричных символов</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="263"/>
         <source>Clear</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Очистить</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="273"/>
         <source>Integrated address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Интегрированный адрес</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="385"/>
         <source>Save QrCode</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сохранитиь QR-код</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="386"/>
         <source>Failed to save QrCode to </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> Не удалось сохранить QR-код для</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="397"/>
         <source>Save As</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сохранить как</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="219"/>
         <source>Payment ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID платежа</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="282"/>
         <source>Generate payment ID for integrated address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создание ID платежа для интегрированного адреса</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="306"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Количество</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="314"/>
         <source>Amount to receive</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сумма для получения</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="335"/>
         <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FCB819; font-size: 14px;}&lt;/style&gt;                           Tracking &lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;help&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FCB819; font-size: 14px;}&lt;/style&gt;                           Отслеживание &lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;help&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="340"/>
         <source>Tracking payments</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отслеживание платежей</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="341"/>
         <source>&lt;p&gt;&lt;font size=&apos;+2&apos;&gt;This is a simple sales tracker:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Click Generate to create a random payment id for a new customer&lt;/p&gt; &lt;p&gt;Let your customer scan that QR code to make a payment (if that customer has software which supports QR code scanning).&lt;/p&gt;&lt;p&gt;This page will automatically scan the blockchain and the tx pool for incoming transactions using this QR code. If you input an amount, it will also check that incoming transactions total up to that amount.&lt;/p&gt;It&apos;s up to you whether to accept unconfirmed transactions or not. It is likely they&apos;ll be confirmed in short order, but there is still a possibility they might not, so for larger values you may want to wait for one or more confirmation(s).&lt;/p&gt;</source>
-        <translation type="unfinished"></translation>
+  !!!      <translation type="unfinished">
+&lt;p&gt;&lt;font size=&apos;+2&apos;&gt;This is a simple sales tracker:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;Click Generate to create a random payment id for a new customer&lt;/p&gt; &lt;p&gt;Let your customer scan that QR code to make a payment (if that customer has software which supports QR code scanning).&lt;/p&gt;&lt;p&gt;This page will automatically scan the blockchain and the tx pool for incoming transactions using this QR code. If you input an amount, it will also check that incoming transactions total up to that amount.&lt;/p&gt;It&apos;s up to you whether to accept unconfirmed transactions or not. It is likely they&apos;ll be confirmed in short order, but there is still a possibility they might not, so for larger values you may want to wait for one or more confirmation(s).&lt;/p&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../pages/Receive.qml" line="251"/>
         <source>Generate</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Генерировать</translation>
     </message>
 </context>
 <context>
@@ -777,22 +780,22 @@
     <message>
         <location filename="../RightPanel.qml" line="61"/>
         <source>Twitter</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Twitter</translation>
     </message>
     <message>
         <location filename="../RightPanel.qml" line="62"/>
         <source>News</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Новости</translation>
     </message>
     <message>
         <location filename="../RightPanel.qml" line="63"/>
         <source>Help</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Помощь</translation>
     </message>
     <message>
         <location filename="../RightPanel.qml" line="64"/>
         <source>About</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">About</translation>
     </message>
 </context>
 <context>
@@ -800,12 +803,12 @@
     <message>
         <location filename="../components/SearchInput.qml" line="69"/>
         <source>Search by...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Искать по...</translation>
     </message>
     <message>
         <location filename="../components/SearchInput.qml" line="228"/>
         <source>SEARCH</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ПОИСК</translation>
     </message>
 </context>
 <context>
@@ -813,142 +816,142 @@
     <message>
         <location filename="../pages/Settings.qml" line="424"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="425"/>
         <source>Wrong password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Неверный пароль</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="119"/>
         <source>Show seed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Показать зерно</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="221"/>
         <source>Daemon address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Адрес службы</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="72"/>
         <source>Manage wallet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Менеджер кошелька</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="87"/>
         <source>Close wallet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выйти из кошелька</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="102"/>
         <source>Create view only wallet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создать кошелек только для чтения</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="132"/>
         <source>Manage daemon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Менеджер службы</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="152"/>
         <source>Start daemon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запустить службу</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="166"/>
         <source>Stop daemon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Остановить службу</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="199"/>
         <source>Daemon startup flags</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ключи запуска службы</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="207"/>
         <source>(optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(опционально)</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="249"/>
         <source>Login (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Логин (опционально)</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="258"/>
         <source>Username</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Логин</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="267"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пароль</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="302"/>
         <source>Layout settings</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Настройка расположения</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="319"/>
         <source>Custom decorations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Системная рамка</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="330"/>
         <source>Log level</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Детализация лога</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="356"/>
         <source>(e.g. *:WARNING,net.p2p:DEBUG)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">(например: *:WARNING,net.p2p:DEBUG)</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="372"/>
         <source>Version</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Версия</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="388"/>
         <source>GUI version: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">GUI версия:</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="395"/>
         <source>Embedded Charnacoin version: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Версия службы:</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="405"/>
         <source>Daemon log</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Лог службы</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="416"/>
         <source>Wallet mnemonic seed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мнемоническое зерно кошелька</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="230"/>
         <source>Hostname / IP</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> Имя хоста / IP </translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="179"/>
         <source>Show status</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Показать статус</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="239"/>
         <source>Port</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">порт</translation>
     </message>
     <message>
         <location filename="../pages/Settings.qml" line="275"/>
         <source>Save</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сохранить</translation>
     </message>
 </context>
 <context>
@@ -956,72 +959,72 @@
     <message>
         <location filename="../pages/Sign.qml" line="68"/>
         <source>Good signature</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Хорошая подпись</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="69"/>
         <source>This is a good signature</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Это хорошая подпись</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="73"/>
         <source>Bad signature</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Плохая подпись</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="74"/>
         <source>This signature did not verify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Подпись не верифицирована</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="123"/>
         <source>Sign a message or file contents with your address:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Подпишите сообщение или содержимое файла своим адресом</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="133"/>
         <location filename="../pages/Sign.qml" line="319"/>
         <source>Either message:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Любое сообщение:</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="148"/>
         <source>Message to sign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сообщение для подписания</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="167"/>
         <location filename="../pages/Sign.qml" line="242"/>
         <source>Sign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Подпись</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="195"/>
         <source>Please choose a file to sign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выберите файл для подписи</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="208"/>
         <location filename="../pages/Sign.qml" line="393"/>
         <source>Select</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выбрать</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="352"/>
         <location filename="../pages/Sign.qml" line="426"/>
         <source>Verify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Верификация</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="183"/>
         <location filename="../pages/Sign.qml" line="368"/>
         <source>Or file:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Из файла:</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="223"/>
         <source>Filename with message to sign</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Имя файла с сообщением для подписания</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="264"/>
@@ -1029,32 +1032,34 @@
         <location filename="../pages/Sign.qml" line="470"/>
         <location filename="../pages/Sign.qml" line="479"/>
         <source>Signature</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сигнатура</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="309"/>
         <source>Verify a message or file signature from an address:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Верификация сообщения или сигнатуры от адреса</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="334"/>
         <source>Message to verify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Верификация сообщения</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="380"/>
         <source>Please choose a file to verify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выберите файл для верификации</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="408"/>
         <source>Filename with message to verify</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Файл или сообщение для верификации</translation>
     </message>
     <message>
         <location filename="../pages/Sign.qml" line="444"/>
         <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FCB819; font-size: 14px;}&lt;/style&gt;                            Signing address &lt;font size=&apos;2&apos;&gt;  ( Paste in  or select from &lt;/font&gt; &lt;a href=&apos;#&apos;&gt;Address book&lt;/a&gt;&lt;font size=&apos;2&apos;&gt; )&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FCB819; font-size: 14px;}&lt;/style&gt;                            Подпись адресов &lt;font size=&apos;2&apos;&gt;  ( Вставьте или выберите из &lt;/font&gt; &lt;a href=&apos;#&apos;&gt;Книги адресов&lt;/a&gt;&lt;font size=&apos;2&apos;&gt; )&lt;/font&gt;
+</translation>
     </message>
 </context>
 <context>
@@ -1062,12 +1067,12 @@
     <message>
         <location filename="../components/StandardDialog.qml" line="127"/>
         <source>Ok</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Да</translation>
     </message>
     <message>
         <location filename="../components/StandardDialog.qml" line="112"/>
         <source>Cancel</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отмена</translation>
     </message>
 </context>
 <context>
@@ -1075,32 +1080,32 @@
     <message>
         <location filename="../components/StandardDropdown.qml" line="197"/>
         <source>Low (x1 fee)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Низкая (комиссия x1)</translation>
     </message>
     <message>
         <location filename="../components/StandardDropdown.qml" line="198"/>
         <source>Medium (x20 fee)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Средняя (комиссия x20)</translation>
     </message>
     <message>
         <location filename="../components/StandardDropdown.qml" line="199"/>
         <source>High (x166 fee)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Высокая (комиссия x166)</translation>
     </message>
     <message>
         <location filename="../components/StandardDropdown.qml" line="200"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Всё</translation>
     </message>
     <message>
         <location filename="../components/StandardDropdown.qml" line="201"/>
         <source>Sent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отправить</translation>
     </message>
     <message>
         <location filename="../components/StandardDropdown.qml" line="202"/>
         <source>Received</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Получить</translation>
     </message>
 </context>
 <context>
@@ -1108,22 +1113,22 @@
     <message>
         <location filename="../components/TableDropdown.qml" line="182"/>
         <source>&lt;b&gt;Copy address to clipboard&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> &lt;b&gt;Копировать в буфер&lt;/b&gt; </translation>
     </message>
     <message>
         <location filename="../components/TableDropdown.qml" line="183"/>
         <source>&lt;b&gt;Send to same destination&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;b&gt;Повторить&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../components/TableDropdown.qml" line="184"/>
         <source>&lt;b&gt;Find similar transactions&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;b&gt;Найти похожие транзакции&lt;/b&gt;</translation>
     </message>
     <message>
         <location filename="../components/TableDropdown.qml" line="185"/>
         <source>&lt;b&gt;Remove from address book&lt;/b&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">&lt;b&gt;Удалить из адресной книги&lt;/b&gt;</translation>
     </message>
 </context>
 <context>
@@ -1131,22 +1136,22 @@
     <message>
         <location filename="../components/TableHeader.qml" line="65"/>
         <source>Payment ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID платежа</translation>
     </message>
     <message>
         <location filename="../components/TableHeader.qml" line="66"/>
         <source>Date</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Дата</translation>
     </message>
     <message>
         <location filename="../components/TableHeader.qml" line="67"/>
         <source>Block height</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Высота блока</translation>
     </message>
     <message>
         <location filename="../components/TableHeader.qml" line="68"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Количество</translation>
     </message>
 </context>
 <context>
@@ -1154,17 +1159,17 @@
     <message>
         <location filename="../components/TickDelegate.qml" line="55"/>
         <source>Normal</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Нормальный</translation>
     </message>
     <message>
         <location filename="../components/TickDelegate.qml" line="56"/>
         <source>Medium</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Средний</translation>
     </message>
     <message>
         <location filename="../components/TickDelegate.qml" line="57"/>
         <source>High</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Высокий</translation>
     </message>
 </context>
 <context>
@@ -1172,12 +1177,12 @@
     <message>
         <location filename="../pages/Transfer.qml" line="125"/>
         <source>Amount</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Количество</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="135"/>
         <source>Transaction priority</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Приоритет</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="91"/>
@@ -1187,155 +1192,167 @@
     <message>
         <location filename="../pages/Transfer.qml" line="470"/>
         <source>Transaction cost</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Стоимость</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="527"/>
         <source>Sign tx file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Подписать tx файл</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="541"/>
         <source>Submit tx file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отправить tx файл</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="710"/>
         <location filename="../pages/Transfer.qml" line="722"/>
         <source>Wallet is not connected to daemon.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кошелек не подключен к службе</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="725"/>
         <source>Connected daemon is not compatible with GUI. 
 Please upgrade or connect to another daemon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Подключенная служба не совместима с графическим интерфейсом.
+Обновите или подключитесь к другой службе</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="730"/>
         <source>Waiting on daemon synchronization to finish</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ожидайте синхронизации службы</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="320"/>
         <source>Payment ID &lt;font size=&apos;2&apos;&gt;( Optional )&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID платежа &lt;font size=&apos;2&apos;&gt;( Опционально )&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="66"/>
         <source>OpenAlias error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">OpenAlias ошибка </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="175"/>
         <source>All</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Всё</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="289"/>
         <source>No valid address found at this OpenAlias address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Недействительный адрес, найденный по этому адресу OpenAlias</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="294"/>
         <source>Address found, but the DNSSEC signatures could not be verified, so this address may be spoofed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Адрес найден, но подписи DNSSEC не могут быть проверены, поэтому этот адрес может быть подделан</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="296"/>
         <source>No valid address found at this OpenAlias address, but the DNSSEC signatures could not be verified, so this may be spoofed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Недействительный адрес, найденный на этом адресе OpenAlias, и подписи DNSSEC не могут быть проверены, поэтому это может быть подделано</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="299"/>
         <location filename="../pages/Transfer.qml" line="302"/>
         <source>Internal error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Внутренняя ошибка
+</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="305"/>
         <source>No address found</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не найден адрес</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="332"/>
         <source>16 or 64 hexadecimal characters</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+16 или 64 шестнадцатеричных символа</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="345"/>
         <source>Description &lt;font size=&apos;2&apos;&gt;( Optional )&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Описание &lt;font size=&apos;2&apos;&gt;( Опционально )&lt;/font&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="357"/>
         <source>Saved to local wallet history</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+Сохранено в истории локального кошелька</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="78"/>
         <source>Privacy level (ringsize %1)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Уровень приватности (ringsize %1)</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="44"/>
         <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FCB819; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Start daemon&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FCB819; font-size: 14px;}&lt;/style&gt;&lt;font size=&apos;2&apos;&gt; (&lt;/font&gt;&lt;a href=&apos;#&apos;&gt;Запуск службы&lt;/a&gt;&lt;font size=&apos;2&apos;&gt;)&lt;/font&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="193"/>
-        <source>Low (x1 fee)</source>
+        <source>Низкий (Комиссия x1)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="194"/>
-        <source>Medium (x20 fee)</source>
+        <source>Средний (Комиссия x20)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="195"/>
-        <source>High (x166 fee)</source>
+        <source>Высокий (Комиссия x166)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="223"/>
         <source>&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FCB819; font-size: 14px;}&lt;/style&gt;                      Address &lt;font size=&apos;2&apos;&gt;  ( Paste in or select from &lt;/font&gt; &lt;a href=&apos;#&apos;&gt;Address book&lt;/a&gt;&lt;font size=&apos;2&apos;&gt; )&lt;/font&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+
+&lt;style type=&apos;text/css&apos;&gt;a {text-decoration: none; color: #FCB819; font-size: 14px;}&lt;/style&gt;                      Адрес &lt;font size=&apos;2&apos;&gt;  ( Вставьте или выберите из &lt;/font&gt; &lt;a href=&apos;#&apos;&gt;адрессной книги&lt;/a&gt;&lt;font size=&apos;2&apos;&gt; )&lt;/font&gt;
+
+</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="241"/>
         <source>QR Code</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">QR-код</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="271"/>
         <source>Resolve</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Принять </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="387"/>
         <source>Send</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отправить</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="442"/>
         <source>Show advanced options</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Показать дополнительные опции</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="491"/>
         <source>Sweep Unmixable</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Sweep Unmixable</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="505"/>
         <source>create tx file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создать tx файл</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="556"/>
         <source>Rescan spent</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Персканировать</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="565"/>
