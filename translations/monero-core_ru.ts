@@ -378,7 +378,7 @@
     <message>
         <location filename="../LeftPanel.qml" line="92"/>
         <source>Testnet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тестнет</translation>
     </message>
     <message>
         <location filename="../LeftPanel.qml" line="289"/>
@@ -519,7 +519,7 @@
     <message>
         <location filename="../pages/Mining.qml" line="166"/>
         <source>Mining is only available on local daemons. Run a local daemon to be able to mine.&lt;br&gt;</source>
-      <translation type="unfinished">Майнинг доступен при зупущеном сервисе CharnaCoin. Запустите сервис чтобы иметь возможность добывать CharnaCoin &lt;br&gt;</translation>
+      <translation type="unfinished">Майнинг доступен при зупущеном сервисе Charnaсoin. Запустите сервис чтобы иметь возможность добывать Charnaсoin &lt;br&gt;</translation>
     </message>
     <message>
         <location filename="../pages/Mining.qml" line="178"/>
@@ -1352,98 +1352,98 @@ Please upgrade or connect to another daemon</source>
     <message>
         <location filename="../pages/Transfer.qml" line="556"/>
         <source>Rescan spent</source>
-        <translation type="unfinished">Персканировать</translation>
+        <translation type="unfinished">Персканировать транзакции</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="565"/>
         <location filename="../pages/Transfer.qml" line="600"/>
         <location filename="../pages/Transfer.qml" line="656"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="566"/>
         <source>Error: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="571"/>
         <location filename="../pages/Transfer.qml" line="662"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Информация</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="572"/>
         <source>Sucessfully rescanned spent outputs</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Успешно просканировано</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="589"/>
         <location filename="../pages/Transfer.qml" line="650"/>
         <source>Please choose a file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выберите файл</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="601"/>
         <source>Can&apos;t load unsigned transaction: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Невозможно загрузить неподписанную транзакцию: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="608"/>
         <source>
 Number of transactions: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Номер транзакции: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="610"/>
         <source>
 Transaction #%1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Транзакция #%1</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="611"/>
         <source>
 Recipient: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Получатель: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="612"/>
         <source>
 payment ID: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID платежа: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="613"/>
         <source>
 Amount: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Количество: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="614"/>
         <source>
 Fee: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Коммиссия: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="615"/>
         <source>
 Ringsize: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ringsize: </translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="629"/>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Подтверждение</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="657"/>
         <source>Can&apos;t submit transaction: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Невозможно отправить транзакцию</translation>
     </message>
     <message>
         <location filename="../pages/Transfer.qml" line="663"/>
         <source>Money sent successfully</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Средства отправлены успешно</translation>
     </message>
 </context>
 <context>
@@ -1451,62 +1451,62 @@ Ringsize: </source>
     <message>
         <location filename="../pages/TxKey.qml" line="90"/>
         <source>Verify that a third party made a payment by supplying:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Убедитесь, что третьи лица внесли платеж, предоставив:</translation>
     </message>
     <message>
         <location filename="../pages/TxKey.qml" line="94"/>
         <source> - the recipient address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> - адрес получателя</translation>
     </message>
     <message>
         <location filename="../pages/TxKey.qml" line="98"/>
         <source> - the transaction ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> - ID транзакции</translation>
     </message>
     <message>
         <location filename="../pages/TxKey.qml" line="102"/>
         <source> - the secret transaction key supplied by the sender</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> - секретный ключ транзакции, предоставленный отправителем </translation>
     </message>
     <message>
         <location filename="../pages/TxKey.qml" line="119"/>
         <source>Address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Адрес</translation>
     </message>
     <message>
         <location filename="../pages/TxKey.qml" line="126"/>
         <source>Recipient&apos;s wallet address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Адрес кошелька получателя</translation>
     </message>
     <message>
         <location filename="../pages/TxKey.qml" line="148"/>
         <source>Transaction ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID транзакции</translation>
     </message>
     <message>
         <location filename="../pages/TxKey.qml" line="157"/>
         <source>Paste tx ID</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вставьте ID tx</translation>
     </message>
     <message>
         <location filename="../pages/TxKey.qml" line="189"/>
         <source>Paste tx key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Вставьте tx ключ</translation>
     </message>
     <message>
         <location filename="../pages/TxKey.qml" line="212"/>
         <source>Check</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Проверить</translation>
     </message>
     <message>
         <location filename="../pages/TxKey.qml" line="181"/>
         <source>Transaction key</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ключь транзакции</translation>
     </message>
     <message>
         <location filename="../pages/TxKey.qml" line="106"/>
         <source>If a payment had several transactions then each must be checked and the results combined.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Если платеж состоял из нескольких транзакций, каждый из них должен быть проверен, а результаты объединены.</translation>
     </message>
 </context>
 <context>
@@ -1514,37 +1514,37 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="79"/>
         <source>We’re almost there - let’s just configure some Charnacoin preferences</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Почти готово! Давайте просто настроим некоторые предпочтения Charnacoin</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="97"/>
         <source>Kickstart the Charnacoin blockchain?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Запустить Charnaсoin Блокчейн?</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="115"/>
         <source>It is very important to write it down as this is the only backup you will need for your wallet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Очень важно записать его, поскольку это единственная резервная копия, которая вам понадобится для вашего кошелька.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="126"/>
         <source>Enable disk conservation mode?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Включить режим сохранения диска?</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="144"/>
         <source>Disk conservation mode uses substantially less disk-space, but the same amount of bandwidth as a regular Charnacoin instance. However, storing the full blockchain is beneficial to the security of the Charnacoin network. If you are on a device with limited disk space, then this option is appropriate for you.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Режим сохранения диска использует значительно меньшее дисковое пространство, но тот же объем полосы пропускания, что и обычный экземпляр Charnacoin. Однако сохранение полной блок-цепи выгодно для безопасности сети Charnacoin. Если вы находитесь на устройстве с ограниченным дисковым пространством, эта опция подходит для вас.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="157"/>
         <source>Allow background mining?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Включить фоновый майнинг</translation>
     </message>
     <message>
         <location filename="../wizard/WizardConfigure.qml" line="175"/>
         <source>Mining secures the Charnacoin network, and also pays a small reward for the work done. This option will let Charnacoin mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Майинг будет работать когда ваш компьютер не используется вами (во время простоя</translation>
     </message>
 </context>
 <context>
@@ -1552,7 +1552,7 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardCreateViewOnlyWallet.qml" line="68"/>
         <source>Create view only wallet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создать кошелек только для чтения</translation>
     </message>
 </context>
 <context>
@@ -1560,7 +1560,7 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardCreateWallet.qml" line="99"/>
         <source>Create a new wallet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создать новый кошелек</translation>
     </message>
 </context>
 <context>
@@ -1568,32 +1568,32 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="93"/>
         <source>Charnacoin development is solely supported by donations</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Развитие Charnacoin поддерживается только пожертвованиями</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="113"/>
         <source>Enable auto-donations of?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Включить авто-пожертвования?</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="153"/>
         <source>% of my fee added to each transaction</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">% моей комиссии, добавленной к каждой транзакции</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="164"/>
         <source>For every transaction, a small transaction fee is charged. This option lets you add an additional amount, as a percentage of that fee, to your transaction to support Charnacoin development. For instance, a 50% autodonation take a transaction fee of 0.005 NAC and add a 0.0025 NAC to support Charnacoin development.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">За каждую транзакцию взимается небольшая комиссия за транзакцию. Этот параметр позволяет добавить дополнительную сумму, в процентах от этой суммы, к вашей транзакции для поддержки разработки Charnacoin. Например, 50% автодонирования принимают комиссию за транзакцию в размере 0,005 NAC и добавляют 0,0025 NAC для поддержки разработки Charnacoin.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="176"/>
         <source>Allow background mining?</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Разрешить майнинг в фоновом режиме</translation>
     </message>
     <message>
         <location filename="../wizard/WizardDonation.qml" line="194"/>
         <source>Mining secures the Charnacoin network, and also pays a small reward for the work done. This option will let Charnacoin mine when your computer is on mains power and is idle. It will stop mining when you continue working.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Майинг будет работать когда ваш компьютер не используется вами (во время простоя)</translation>
     </message>
 </context>
 <context>
@@ -1603,64 +1603,64 @@ Ringsize: </source>
         <location filename="../wizard/WizardFinish.qml" line="52"/>
         <location filename="../wizard/WizardFinish.qml" line="54"/>
         <source>Enabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Включено</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="49"/>
         <location filename="../wizard/WizardFinish.qml" line="52"/>
         <location filename="../wizard/WizardFinish.qml" line="54"/>
         <source>Disabled</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отключено</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="58"/>
         <source>Language</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Язык</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="59"/>
         <source>Wallet name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Имя кошелька</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="60"/>
         <source>Backup seed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Востановить мнемоническое зерно</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="61"/>
         <source>Wallet path</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Путь к кошельку</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="67"/>
         <source>Daemon address</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Адрес службы</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="68"/>
         <source>Testnet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тестнет</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="70"/>
         <source>Restore height</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Restore height</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="78"/>
         <source>New wallet details:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Детали нового кошелька:</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="82"/>
         <source>Don&apos;t forget to write down your seed. You can view your seed and change your settings on settings page.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не забудь записать свое семя. Вы можете просмотреть свое семя и изменить свои настройки на странице настроек.</translation>
     </message>
     <message>
         <location filename="../wizard/WizardFinish.qml" line="128"/>
         <source>You’re all set up!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Все готово!</translation>
     </message>
 </context>
 <context>
@@ -1668,27 +1668,27 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardMain.qml" line="168"/>
         <source>A wallet with same name already exists. Please change wallet name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Кошелек с таким же именем уже существует. Пожалуйста, измените название кошелька</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="176"/>
         <source>Non-ASCII characters are not allowed in wallet path or account name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Символы, отличные от ASCII, не допускаются в пути кошелька или имени учетной записи</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="350"/>
         <source>USE CHARNACOIN</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Начать использовать</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="367"/>
         <source>Create wallet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создать кошелек</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="377"/>
         <source>Success</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Успешно</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="378"/>
@@ -1699,12 +1699,12 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardMain.qml" line="386"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMain.qml" line="399"/>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отмена</translation>
     </message>
 </context>
 <context>
@@ -1712,47 +1712,47 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="133"/>
         <source>Wallet name</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Имя кошелька</translation>
     </message>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="152"/>
         <source>Restore from seed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Востановить из мнемнонического зерна</translation>
     </message>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="166"/>
         <source>Restore from keys</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Восстановить из ключа</translation>
     </message>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="203"/>
         <source>Account address (public)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Акаунт адрес (публично)</translation>
     </message>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="211"/>
         <source>View key (private)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Показать ключ (секретно)</translation>
     </message>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="220"/>
         <source>Spend key (private)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Spend key (private)</translation>
     </message>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="232"/>
         <source>Restore height (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Востановление высоты (опционально)</translation>
     </message>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="245"/>
         <source>Your wallet is stored in</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ваш кашелек хранится в</translation>
     </message>
     <message>
         <location filename="../wizard/WizardManageWalletUI.qml" line="272"/>
         <source>Please choose a directory</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Выберите директорию</translation>
     </message>
 </context>
 <context>
@@ -1760,12 +1760,12 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardMemoTextInput.qml" line="44"/>
         <source>Enter your 25 word mnemonic seed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Введите 25 слов. Мнемоническое зерно Вашего кошелька</translation>
     </message>
     <message>
         <location filename="../wizard/WizardMemoTextInput.qml" line="88"/>
         <source>This seed is &lt;b&gt;very&lt;/b&gt; important to write down and keep secret. It is all you need to backup and restore your wallet.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Это мнемоническое зерно. Очень важно записать его и хранить в секрете. Это все, что вам нужно для резервного копирования и восстановления вашего кошелька.</translation>
     </message>
 </context>
 <context>
@@ -1773,37 +1773,37 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="87"/>
         <source>Welcome to Charnacoin!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Добро пожаловать в Charnacoin</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="98"/>
         <source>Please select one of the following options:</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пожалуста выберите одну из следующих опций:</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="155"/>
         <source>Create a new wallet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Создать новый кошелек</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="197"/>
         <source>Restore wallet from keys or mnemonic seed</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Востановить кошелек из мнемонического зерно</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="241"/>
         <source>Open a wallet from file</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Открыть кошелек из файла</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="262"/>
         <source>Custom daemon address (optional)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Произвольный адресс службы (опционально)</translation>
     </message>
     <message>
         <location filename="../wizard/WizardOptions.qml" line="295"/>
         <source>Testnet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Тестнет</translation>
     </message>
 </context>
 <context>
@@ -1812,13 +1812,17 @@ Ringsize: </source>
         <location filename="../wizard/WizardPassword.qml" line="57"/>
         <location filename="../wizard/WizardPassword.qml" line="59"/>
         <source>Give your wallet a password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Задайте пароль для кошелька</translation>
     </message>
     <message>
         <location filename="../wizard/WizardPassword.qml" line="127"/>
         <source> &lt;br&gt;Note: this password cannot be recovered. If you forget it then the wallet will have to be restored from its 25 word mnemonic seed.&lt;br/&gt;&lt;br/&gt;
                         &lt;b&gt;Enter a strong password&lt;/b&gt; (using letters, numbers, and/or symbols):</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">
+ &lt;br&gt;Подсказка: Этот пароль не может быть восстановлен, если вы его потеряете то вы сможете восстановить кошелек из 25 слов мнемнонического зерна &lt;br/&gt;&lt;br/&gt;
+                        &lt;b&gt;Введите сильный пароль &lt;/b&gt; (Используйте буквы, цифры, спецсимволы):
+
+</translation>
     </message>
 </context>
 <context>
@@ -1826,12 +1830,12 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardPasswordUI.qml" line="70"/>
         <source>Password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пароль</translation>
     </message>
     <message>
         <location filename="../wizard/WizardPasswordUI.qml" line="82"/>
         <source>Confirm password</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Подтвердить пароль</translation>
     </message>
 </context>
 <context>
@@ -1839,7 +1843,7 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardRecoveryWallet.qml" line="112"/>
         <source>Restore wallet</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Восстановить кошелек</translation>
     </message>
 </context>
 <context>
@@ -1851,7 +1855,7 @@ Ringsize: </source>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="79"/>
         <source>Welcome to Charnacoin!</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Добро пожаловать в графический кошелек Charnacoin</translation>
     </message>
     <message>
         <location filename="../wizard/WizardWelcome.qml" line="89"/>
@@ -1871,32 +1875,32 @@ Ringsize: </source>
         <location filename="../main.qml" line="692"/>
         <location filename="../main.qml" line="722"/>
         <source>Error</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ошибка</translation>
     </message>
     <message>
         <location filename="../main.qml" line="315"/>
         <source>Couldn&apos;t open wallet: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Невозможно открыть кошелек</translation>
     </message>
     <message>
         <location filename="../main.qml" line="346"/>
         <source>Unlocked balance (waiting for block)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Доступный баланс (ожидание блока)</translation>
     </message>
     <message>
         <location filename="../main.qml" line="429"/>
         <source>Daemon failed to start</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Службу не удалось запустить</translation>
     </message>
     <message>
         <location filename="../main.qml" line="430"/>
-        <source>Please check your wallet and daemon log for errors. You can also try to start %1 manually.</source>
+        <source>Пожалуйста, проверьте журнал кошелька и службы на наличие ошибок. Вы также можете попытаться запустить %1 вручную.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <location filename="../main.qml" line="481"/>
         <source>Can&apos;t create transaction: Wrong daemon version: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Невозможно создать транзакцию. Неверная версия службы:</translation>
     </message>
     <message>
         <location filename="../main.qml" line="491"/>
@@ -1904,14 +1908,14 @@ Ringsize: </source>
         <location filename="../main.qml" line="602"/>
         <location filename="../main.qml" line="603"/>
         <source>No unmixable outputs to sweep</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">No unmixable outputs to sweep</translation>
     </message>
     <message>
         <location filename="../main.qml" line="505"/>
         <location filename="../main.qml" line="616"/>
         <source>Please confirm transaction:
 </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пожалуйста подтвердите транзакцию: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="508"/>
@@ -1919,133 +1923,133 @@ Ringsize: </source>
         <source>
 
 Amount: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Количество: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="510"/>
         <source>
 
 Ringsize: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ringsize: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="511"/>
         <source>
 Number of transactions: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Номер транзакции: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="512"/>
         <source>
 
 Description: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Описание:</translation>
     </message>
     <message>
         <location filename="../main.qml" line="541"/>
         <source>Amount is wrong: expected number from %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Сумма неверна: ожидаемое число от  %1 to %2</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1272"/>
         <source>Daemon is running</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Служба запущена</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1273"/>
         <source>Daemon will still be running in background when GUI is closed.</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Когда графический интерфейс закрыт, служба будет работать в фоновом режиме.</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1275"/>
         <source>Stop daemon</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Остановить службу</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1310"/>
         <source>New version of charnacoin-wallet-gui is available: %1&lt;br&gt;%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Новая версия графического кошелька доступна: %1&lt;br&gt;%2</translation>
     </message>
     <message>
         <location filename="../main.qml" line="483"/>
         <location filename="../main.qml" line="594"/>
         <source>Can&apos;t create transaction: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Невозможно создать транзакцию: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="346"/>
         <source>Unlocked balance (~%1 min)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Доступный баланс (~%1 min)</translation>
     </message>
     <message>
         <location filename="../main.qml" line="346"/>
         <source>Unlocked balance</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Доступный баланс</translation>
     </message>
     <message>
         <location filename="../main.qml" line="398"/>
         <source>Waiting for daemon to start...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ожидайте запуска службы...</translation>
     </message>
     <message>
         <location filename="../main.qml" line="404"/>
         <source>Waiting for daemon to stop...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Ожидайте остановки службы...</translation>
     </message>
     <message>
         <location filename="../main.qml" line="504"/>
         <location filename="../main.qml" line="615"/>
         <source>Confirmation</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Подтверждение</translation>
     </message>
     <message>
         <location filename="../main.qml" line="506"/>
         <source>
 Address: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Адрес: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="507"/>
         <source>
 Payment ID: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">ID платежа: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="509"/>
         <location filename="../main.qml" line="618"/>
         <source>
 Fee: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Комиссия: </translation>
     </message>
     <message>
         <location filename="../main.qml" line="552"/>
         <source>Insufficient funds. Unlocked balance: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Недостаточно средств. Доступны баланс: %1</translation>
     </message>
     <message>
         <location filename="../main.qml" line="655"/>
         <source>Couldn&apos;t send the money: </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Не могли отправить средства:</translation>
     </message>
     <message>
         <location filename="../main.qml" line="658"/>
         <source>Information</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Информация</translation>
     </message>
     <message>
         <location filename="../main.qml" line="664"/>
         <source>Transaction saved to file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Транзакция сохранена в файле: %1</translation>
     </message>
     <message>
         <location filename="../main.qml" line="714"/>
         <source>This address received %1 charnacoin, with %2 confirmation(s).</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Этот адрес получил %1 charnacoin. Подтверждений: %2 </translation>
     </message>
     <message>
         <location filename="../main.qml" line="730"/>
         <source>Balance (syncing)</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Баланс (синхронизация)</translation>
     </message>
     <message>
         <location filename="../main.qml" line="730"/>
@@ -2055,42 +2059,42 @@ Fee: </source>
     <message>
         <location filename="../main.qml" line="936"/>
         <source>Please wait...</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Пожалуста подождите...</translation>
     </message>
     <message>
         <location filename="../main.qml" line="664"/>
         <source>Money sent successfully: %1 transaction(s) </source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished"> Средства отправлены. Количество тарнзакций: %1  </translation>
     </message>
     <message>
         <location filename="../main.qml" line="704"/>
         <source>Payment check</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Проверка платежа</translation>
     </message>
     <message>
         <location filename="../main.qml" line="709"/>
         <source>This address received %1 charnacoin, but the transaction is not yet mined</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Этот адрес получил %1 charnacoin, но транзакция еще не подтверждена</translation>
     </message>
     <message>
         <location filename="../main.qml" line="718"/>
         <source>This address received nothing</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Этот адрес ничего не получил</translation>
     </message>
     <message>
         <location filename="../main.qml" line="965"/>
         <source>Program setup wizard</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Мастер настройки программы</translation>
     </message>
     <message>
         <location filename="../main.qml" line="980"/>
         <source>Charnacoin</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Charnacoin</translation>
     </message>
     <message>
         <location filename="../main.qml" line="1021"/>
         <source>send to the same destination</source>
-        <translation type="unfinished"></translation>
+        <translation type="unfinished">Отправить в тот же пункт назначения</translation>
     </message>
 </context>
 </TS>
